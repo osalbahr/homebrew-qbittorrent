@@ -4,7 +4,7 @@
 
 Add this tap by executing 
 ```
-brew tap qbittorrent/qbittorrent
+brew tap qbittorrent/qbittorrent https://github.com/qbittorrent/qBittorrent
 ```
 
 And then install qBittorrent formula:
