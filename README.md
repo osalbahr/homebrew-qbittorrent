@@ -1,13 +1,13 @@
 # [qBittorrent](https://github.com/qbittorrent/qBittorrent) Homebrew repository
 
-## How do I install these formulae?
+## How do I install these Casks?
 
 Add this tap by executing 
 ```
 brew tap qbittorrent/qbittorrent https://github.com/qbittorrent/qBittorrent
 ```
 
-And then install qBittorrent formula:
+And then install qBittorrent Cask:
 ```
 brew install qbittorrent/qbittorrent/qbittorrent
 ```
