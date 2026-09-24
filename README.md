@@ -17,7 +17,7 @@ Subsequently given lack of notarization it's necessary to get rid of [Gatekeeper
 xattr -rd com.apple.quarantine /Applications/qBittorrent.app
 ```
 
-## Brew Documentation
+## Homebrew Documentation
 `brew help`, `man brew`, or check [Homebrew's documentation][brew-docs].
 
 [brew]: https://brew.sh
