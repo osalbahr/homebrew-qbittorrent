@@ -12,7 +12,7 @@ And then install qBittorrent formula:
 brew install qbittorrent/qbittorrent/qbittorrent
 ```
 
-Subsequently given lack of notarization it's necessary to get rid of FileVault complaints:
+Subsequently given lack of notarization it's necessary to get rid of [Gatekeeper](https://en.wikipedia.org/wiki/Gatekeeper_(macOS)) complaints:
 ```
 sudo xattr -rd com.apple.quarantine /Applications/qBittorrent.app
 ```
